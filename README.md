@@ -1,9 +1,9 @@
-# checkIdFormat - module pour Node.js
+# checkIdFormat - middleware pour Node.js
 checkIdFormat, permet de vérifier si une chaîne donnée correspond au format d'ID ObjectId de MongoDB
 
 
 ## installation
-Placer le fichier checkIdFormat.js dans le dossier modules
+Placer le fichier checkIdFormat.js dans le dossier middlewares
 
 
 ## utilisation
